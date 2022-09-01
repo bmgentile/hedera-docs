@@ -4,8 +4,6 @@ description: Store history and cost-effectively query data
 
 # Mirror Nodes
 
-_Mirror nodes are newly available in beta as a developer preview as of August 29th._
-
 Mirror nodes provide a way to store and cost-effectively query historical data from the public ledger while minimizing the use of Hedera network resources. Mirror nodes support the Hedera network services currently available and can be used to retrieve the following information:
 
 * Transactions and records
